@@ -1,0 +1,12 @@
+{
+    "name": "glebtastic",
+    "version": "1.0.0",
+    "title": "Glebtastic",
+    "author": "AnonymoScoot",
+    "contact": "N/A",
+    "description": "Everything spoils.",
+    "factorio_version": "2.0",
+    "dependencies": [
+        "space-age"
+    ]
+}
