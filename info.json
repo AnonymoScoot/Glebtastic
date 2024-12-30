@@ -1,10 +1,10 @@
 {
-    "name": "glebtastic",
+    "name": "Glebtastic",
     "version": "1.0.0",
     "title": "Glebtastic",
     "author": "AnonymoScoot",
-    "contact": "N/A",
-    "description": "Everything spoils.",
+    "contact": "https://github.com/AnonymoScoot/Glebtastic",
+    "description": "Everything spoils. All items, weapons, ammo, armor, modules...",
     "factorio_version": "2.0",
     "dependencies": [
         "space-age"

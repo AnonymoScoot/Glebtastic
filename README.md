@@ -1,2 +1,2 @@
 # Glebtastic
-Makes everything Gleba-themed.
+Glebtastic is a mod that makes all items spoil eventually.
